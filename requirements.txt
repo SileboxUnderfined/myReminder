@@ -1,0 +1,4 @@
+pyTelegramBotAPI
+asyncio
+aiohttp
+aiosqlite
